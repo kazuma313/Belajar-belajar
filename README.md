@@ -1,2 +1,3 @@
-# Gabut
-Iseng-iseng
+# Belajar seputar Artificial
+
+Mari berdiskusi
